@@ -46,19 +46,21 @@ print(norm)
 ### 1-Norm of a Matrix
 <br>
 <br>
-<br>![Screenshot_20230124_085231](https://user-images.githubusercontent.com/118644502/214338048-d7755ba6-e680-4a6c-8b26-a5a99a441b7c.png)
+<br>![Screenshot_20230124_085827](https://user-images.githubusercontent.com/118644502/214339899-d0a93bfe-bbf1-4542-96bb-dfd1d6e05575.png)
+
 
 
 ### 2-Norm of a Matrix
 <br>
+<br>![Screenshot_20230124_090041](https://user-images.githubusercontent.com/118644502/214339918-92be7b8f-bf7d-4995-bec9-5eab2b1cc5e7.png)
 <br>
-<br>![Screenshot_20230124_085827](https://user-images.githubusercontent.com/118644502/214338067-f877090a-d7a8-4c7c-b73d-1bcaee718d4d.png)
 
 
 ### Infinity Norm of a Matrix
 <br>
 <br>
-<br>![Screenshot_20230124_090041](https://user-images.githubusercontent.com/118644502/214338091-e08212ba-8e3b-473d-9a23-cc0af6090f99.png)
+<br>
+![Screenshot_20230124_085231](https://user-images.githubusercontent.com/118644502/214339966-8380909d-fde7-401b-bb21-22293ae32b1e.png)
 
 
 
